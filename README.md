@@ -29,7 +29,7 @@ exit
 [WINDOWS]
 https://pypi.org/project/redis/
 pip install redis
-
+ 
 # 2 Test Redis
 127.0.0.1:6379> SET Bahamas Nassau
 OK
