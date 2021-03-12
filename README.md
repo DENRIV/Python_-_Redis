@@ -1,6 +1,6 @@
 # Python_-_Redis
 Python_-_redis
-
+ 
 # 1. Install redis 
 
 [LINUX]
