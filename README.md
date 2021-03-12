@@ -1,6 +1,6 @@
 # Python_-_Redis
 Python_-_redis
- 
+
 # 1. Install redis 
 
 [LINUX]
@@ -57,6 +57,3 @@ Strings	APPEND, BITCOUNT, BITFIELD, BITOP, BITPOS, DECR, DECRBY, GET, GETBIT, GE
 python redis01.py
 ...
 python redis06.py
-
-
-
