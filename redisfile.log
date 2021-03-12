@@ -1,0 +1,18 @@
+2021-03-11 20:04:04,201 index: b'1'
+2021-03-11 20:04:04,203 index: b'2'
+2021-03-11 20:04:04,205 index: b'1'
+2021-03-11 20:04:04,208 my_list: [b'A', b'A', b'A', b'A', b'A', b'A', b'B', b'B', b'B', b'C', b'B', b'C', b'C', b'B', b'C', b'C']
+2021-03-11 20:04:04,210 my_list: [b'A', b'A', b'A', b'A', b'A', b'A', b'B', b'B', b'B', b'C', b'B', b'C', b'C', b'B', b'C', b'C', b'B']
+2021-03-11 20:04:04,211 my_list: [b'A', b'A', b'A', b'A', b'A', b'A', b'B', b'B', b'B', b'C', b'B', b'C', b'C', b'B', b'C', b'C', b'B', b'C']
+2021-03-11 20:04:04,213 my_list: [b'A', b'A', b'A', b'A', b'A', b'A', b'B', b'B', b'B', b'B', b'C', b'C', b'B', b'C', b'C', b'B', b'C']
+2021-03-11 20:04:04,215 my_list: [b'C', b'A', b'A', b'A', b'A', b'A', b'A', b'B', b'B', b'B', b'B', b'C', b'C', b'B', b'C', b'C', b'B', b'C']
+2021-03-11 20:04:04,218 my_list: [b'A', b'A', b'A', b'A', b'A', b'A', b'B', b'B', b'B', b'B', b'C', b'C', b'B', b'C', b'C', b'B', b'C', b'C']
+2021-03-11 20:04:04,220 my_set_1: {b'X', b'Y'}'
+2021-03-11 20:04:04,222 my_set_1: {b'X', b'Y'}'
+2021-03-11 20:04:04,223 my_set_2: {b'X', b'Z'}'
+2021-03-11 20:04:04,225 my_set2: {b'X', b'Z'}'
+2021-03-11 20:04:04,226 Union: {b'X', b'Y', b'Z'}
+2021-03-11 20:04:04,226 Intersect: {b'X'}
+2021-03-11 20:04:04,228 top_songs_set: [b'Never Change - Jay Z', b'Rich Girl - Hall & Oats', b"Can't Figure it Out - Bishop Lamont", b'The Prayer - Griz']'
+2021-03-11 20:04:04,230 top_songs_set: [b'Never Change - Jay Z', b'Rich Girl - Hall & Oats', b"Can't Figure it Out - Bishop Lamont", b'The Prayer - Griz']'
+2021-03-11 20:04:04,231 top_songs_set: [b'Rich Girl - Hall & Oats', b"Can't Figure it Out - Bishop Lamont", b'The Prayer - Griz', b'Never Change - Jay Z']'
